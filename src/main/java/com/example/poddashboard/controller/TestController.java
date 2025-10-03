@@ -11,8 +11,8 @@ public class TestController {
         return "TEST ENDPOINT WORKS!";
     }
     
-    @GetMapping("/")
-    public String home() {
-        return "HOME PAGE WORKS!";
-    }
+#    @GetMapping("/")
+#    public String home() {
+#        return "HOME PAGE WORKS!";
+#    }
 }
