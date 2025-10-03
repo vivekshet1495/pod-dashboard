@@ -1,5 +1,0 @@
-body.bg-gradient {
-  background: linear-gradient(120deg,#f6d365 0%, #fda085 50%, #fbc2eb 100%);
-}
-.pod-card { border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
-.container-widget { background: rgba(255,255,255,0.9); padding: 10px; border-radius: 8px; }
